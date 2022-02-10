@@ -1,0 +1,10 @@
+.notFound {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: fixed;
+    width: 350px;
+    height: 250px;
+}
